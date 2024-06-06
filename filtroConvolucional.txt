@@ -1,0 +1,6 @@
+O filtro convolucionaç possui 2 características:
+
+1 - Linear: Causa uma modificação na imagem onde seremos capaz de calcular o novo valor de um píxel a partir de uma combinação(Linear) dos
+valores que estão na vizinhaça daquele píxel. Média ponderada.
+
+2 - Espacialmente Invariante: Vai se comportar da mesma maneira em todas as regiões da imagem
